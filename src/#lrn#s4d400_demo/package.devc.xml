@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DEVC>
-    <CTEXT>Course S4D400: Basic ABAP Programming</CTEXT>
+    <CTEXT>Demos for Course S4D400</CTEXT>
     <SRV_CHECK>X</SRV_CHECK>
    </DEVC>
   </asx:values>
